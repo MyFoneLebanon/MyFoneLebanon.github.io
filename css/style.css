@@ -1457,6 +1457,10 @@ h6 {
   font-size: 15px;
 }
 
+#footer .copyright strong{
+  color: #c40000;
+}
+
 #footer .credits {
   text-align: center;
   font-size: 14px;
